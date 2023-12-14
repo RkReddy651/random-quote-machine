@@ -1,11 +1,11 @@
 import React from 'react'
 import './App.css';
-import Layout from './components/Layout'
+import QuoteBox from './components/QuoteBox'
 
 function App() {
   return (
     <div className="App">
-      <Layout/>
+      <QuoteBox/>
     </div>
   );
 }
